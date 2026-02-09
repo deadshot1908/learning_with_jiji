@@ -171,6 +171,7 @@ This service handles user queries, retrieves relevant learning content, and retu
 
 🚀 One Improvement With More Time
 
-    If I will be given more time , I would like to add LLM models API so that if there is no response present in the database for any question, it can search taht question in real time.
+    If I will be given more time , I would like to add LLM models API so that if there is no response present in the database for any question, it can search that question in real time.
 
     
+
